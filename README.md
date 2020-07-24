@@ -7,10 +7,10 @@ This is a template that shows how to implement google social OAuth2 with [Djoser
 For advanced users:
 
 ```bash
-virtualenv venv_social_djoser_boilerplate
-cd venv_social_djoser_boilerplate
-git clone https://github.com/hvitis/social_djoser_boilerplate
-cd social_djoser_boilerplate
+virtualenv venv_social_djoser_template
+cd venv_social_djoser_template
+git clone https://github.com/hvitis/social_djoser_template
+cd social_djoser_template
 pip install -r requirements.txt 
 ```
 
