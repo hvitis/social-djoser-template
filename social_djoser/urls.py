@@ -1,4 +1,4 @@
-"""SocialDjoser URL Configuration
+"""social_djoser URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/2.2/topics/http/urls/
@@ -15,8 +15,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from SocialDjoser.token import CustomJWTToken
-from SocialDjoser.oauth.google import ObtainUserFromGoogle
+from social_djoser.token import CustomJWTToken
+from social_djoser.oauth.google import ObtainUserFromGoogle
 
 
 urlpatterns = [
