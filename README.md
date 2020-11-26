@@ -1,4 +1,4 @@
-# social-djoser-template
+# social-djoser-template 🙋‍♂️ 🙋
 
 This is a template that shows how to implement google social OAuth2 with [Djoser library][1] (REST implementation of Django Authentication)
 
