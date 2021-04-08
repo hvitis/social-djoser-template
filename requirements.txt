@@ -3,7 +3,7 @@ cffi==1.14.0
 chardet==3.0.4
 cryptography==3.0
 defusedxml==0.7.0rc1
-Django==2.2
+Django==2.2.20
 django-cors-headers==3.4.0
 django-templated-mail==1.1.1
 djangorestframework==3.11.0
